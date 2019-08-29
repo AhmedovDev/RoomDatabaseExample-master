@@ -1,0 +1,51 @@
+{
+
+     "items": [ 
+     {
+     "product":  {
+        "id": 1,
+        "title": "Картошка фри 9мл LW(S01) «Стелс»",
+        "image": "https://pp.userapi.com/c854424/v854424988/a4a6c/smrK93rjCqM.jpg",
+        "price": 2700,
+        "count": "10 кг",
+        "presence": true,
+        "isEstimatedPrice": true
+      },
+      "quantity": 3
+    },
+     {
+     "product":  {
+        "id": 3,
+        "title": "Картошка фри 9мл LW(S01) «Стелс»",
+        "image": "https://pp.userapi.com/c854424/v854424988/a4a6c/smrK93rjCqM.jpg",
+        "price": 2700,
+        "count": "10 кг",
+        "presence": true,
+        "isEstimatedPrice": false
+      },
+      "quantity": 7
+    },
+     {
+     "product":  {
+        "id": 4,
+        "title": "Картошка фри 9мл LW(S01) «Стелс»",
+        "image": "https://pp.userapi.com/c854424/v854424988/a4a6c/smrK93rjCqM.jpg",
+        "price": 2700,
+        "count": "10 кг",
+        "presence": false,
+        "isEstimatedPrice": false
+      },
+      "quantity": 1
+    }
+],
+   "order": [ 
+     {
+      "date": "12.06.19",
+      "id": 320,
+      "finalPrice": 12600,
+      "status": "Доставлен,
+      "deliveryPrce" 0,
+      "priceWithOutDelivery" 12600
+     }
+     ]
+}
