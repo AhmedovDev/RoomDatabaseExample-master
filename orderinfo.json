@@ -43,9 +43,9 @@
       "date": "12.06.19",
       "id": 320,
       "finalPrice": 12600,
-      "status": "Доставлен,
-      "deliveryPrce" 0,
-      "priceWithOutDelivery" 12600
+      "status": "Доставлен",
+      "deliveryPrice": 0,
+      "priceWithOutDelivery": 12600
      }
      ]
 }
