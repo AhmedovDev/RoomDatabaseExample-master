@@ -38,7 +38,7 @@
       "quantity": 1
     }
 ],
-   "order": [ 
+   "order":
      {
       "date": "12.06.19",
       "id": 320,
@@ -47,5 +47,4 @@
       "deliveryPrice": 0,
       "priceWithOutDelivery": 12600
      }
-     ]
 }
